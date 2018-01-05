@@ -228,7 +228,8 @@ english_filenames <- c("Lip_men_1year_male_10",
                        "All_sites_but_nonmelanoma_skin_cancer_women_5year_female_990",
                        "Lip_oral_cavity_and_pharynx_women_5year_female_510",
                        "Colorectal_women_5year_female_520",
-                       "Basocellular_carcinomas_women_5year_female_888")
+                       "Basocellular_carcinomas_women_5year_female_888"
+                       )
 
 
 english_filenames      <- paste0( english_filenames, ".png" )
